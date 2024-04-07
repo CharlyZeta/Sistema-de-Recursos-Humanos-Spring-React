@@ -17,4 +17,4 @@ El objetivo es construir un **Sistema de Manejo de Empleados** paso a paso.
 
 Puedes encontrar más detalles en el [curso de Udemy](https://www.udemy.com/course/react-y-spring-boot-java-crea-tu-primera-app-full-stack-web-hooks). 🚀
 
-(/front.jpg)
+/Sistema-de-Recursos-Humanos-Spring-React/blob/main/Front.jpg
